@@ -1,0 +1,989 @@
+[
+    {
+        "input_info": {
+            "name": "Dr. Nidhi Rawal",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Nidhi Rawal",
+                    "final_value": "Dr. Nidhi Rawal",
+                    "confidence": 0.68,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 2 (Avg Trust: 0.60)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "(410) 328-6749",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "Max Hospital - Sushant Lok I, 4.0 B - Block, Sector 43, Landmark: Opposite Huda City Centre Metro Station, Gurgaon",
+                    "confidence": 0.76,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "STANFORD R. SCHWIMER",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "STANFORD R. SCHWIMER",
+                    "final_value": "STANFORD R. SCHWIMER",
+                    "confidence": 0.56,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "(310) 394-2761",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "9675 Brighton WaySuite #240Beverly Hills, CA 90210",
+                    "confidence": 0.7,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Vipin Gupta, MD, Neurology, Vineland, NJ",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Vipin Gupta, MD, Neurology, Vineland, NJ",
+                    "final_value": "Vipin Gupta",
+                    "confidence": 0.65,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "(800-467-7472",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "2848 S Delsea DrVineland, NJ 08360",
+                    "confidence": 0.65,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Sandeep Singla, MD",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Sandeep Singla, MD",
+                    "final_value": "Dr. Sanjeev Kumar Singla",
+                    "confidence": 0.53,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 2 (Avg Trust: 0.60)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "2099866113",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "Uma Heart Care Clinic, 2, YWCA Lane, Boggulkunta, Landmark: Shubodaya Apartments, Hyderabad",
+                    "confidence": 0.685,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Trenton Collier",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Trenton Collier",
+                    "final_value": "Trenton Collier",
+                    "confidence": 0.7,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "(646) 962-5665",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "STEPHEN ROTHENBERG",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.734,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "STEPHEN ROTHENBERG",
+                    "final_value": "STEPHEN ROTHENBERG",
+                    "confidence": 0.76,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "954-457-8288",
+                    "confidence": 0.745,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "ste****@gmail.com",
+                    "confidence": 0.685,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "416 E HALLANDALE BEACH BLVD, HALLANDALE BEACH, FL",
+                    "confidence": 0.745,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "REVIEW_NEEDED"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Dr. Naresh Trehan",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Naresh Trehan",
+                    "final_value": "Dr. Naresh Trehan",
+                    "confidence": 0.68,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 2 (Avg Trust: 0.60)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "9370586696",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "nareshtrehan@indiacardiacsurgerysite.com",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "Medanta - The Medicity, Gurgaon",
+                    "confidence": 0.52,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Dr. Ashok Rajgopal",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.73,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Ashok Rajgopal",
+                    "final_value": "Dr. Ashok Rajgopal",
+                    "confidence": 0.71,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "+919*****5",
+                    "confidence": 0.63,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "inf****@dheerajbojwani.com",
+                    "confidence": 0.91,
+                    "action": "Verified",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "Sir H.N. Reliance Foundation Hospital - Girgaon",
+                    "confidence": 0.67,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                }
+            ],
+            "final_action": "REVIEW_NEEDED"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Dr. Mohamed Rela",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Mohamed Rela",
+                    "final_value": "Mohamed Rela",
+                    "confidence": 0.625,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "813-2962272",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "privacy@doctoranytime.be",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "CTS Speciality Hospital - Anna Nagar, no:2, v block, plot 4047, 4th main rd, near mahakali amman koil, v block, anna nagar, chennai, tamil nadu 600040, india",
+                    "confidence": 0.685,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Dr. Sandeep Vaishya",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Sandeep Vaishya",
+                    "final_value": "Dr. Sandeep Vaishya",
+                    "confidence": 0.595,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "9188105225",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "help@tourwellsoon.com",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "Fortis Memorial Research Institute, 3.5 Sector - 44, Opposite HUDA City Centre, Gurugram, Haryana, Landmark: Opposite HUDA City Centre Metro Station, Gurgaon",
+                    "confidence": 0.685,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Dr. Rahul Bhargava",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Rahul Bhargava",
+                    "final_value": "Dr. Rahul Bhargava",
+                    "confidence": 0.595,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "1692636329",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "1275 York Ave, New York, NY 10065",
+                    "confidence": 0.625,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Dr. Arvinder Singh Soin",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Arvinder Singh Soin",
+                    "final_value": "Dr. Arvinder Singh Soin",
+                    "confidence": 0.68,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 2 (Avg Trust: 0.60)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "9555197411",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "doc****@livertransplantindia.com",
+                    "confidence": 0.76,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "Medanta-The Medicity, Gurgaon Sector 38, Gurgaon",
+                    "confidence": 0.76,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Dr. Rana Patir",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Rana Patir",
+                    "final_value": "Dr. Rana Patir",
+                    "confidence": 0.67,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 3 (Avg Trust: 0.57)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "9325887033",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "dr.ranapatir@neurospinehospital.com",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "Fortis Vasantkunj, Vasant Kunj",
+                    "confidence": 0.47,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Lisa Newman",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.74,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Lisa Newman",
+                    "final_value": "Lisa Newman",
+                    "confidence": 0.77,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "646-962-4240",
+                    "confidence": 0.65,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "lan4002@med.cornell.edu",
+                    "confidence": 0.77,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.90)"
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "1283 York Avenue 4th Floor New York, NY 10065",
+                    "confidence": 0.77,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "REVIEW_NEEDED"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Roger Hartl, MD",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Roger Hartl, MD",
+                    "final_value": "Roger Hartl, MD",
+                    "confidence": 0.425,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "212) 746-2152",
+                    "confidence": 0.625,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "hartlspine@med.cornell.edu",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "525 E 68th St# 99New York, NY 10065",
+                    "confidence": 0.625,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Louis J. Aronne, M.D.",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.719,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Louis J. Aronne, M.D.",
+                    "final_value": "Louis J Aronne",
+                    "confidence": 0.745,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "646-962-2111",
+                    "confidence": 0.625,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "ljaronne@med.cornell.edu",
+                    "confidence": 0.745,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.90)"
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "1305 York Avenue 4th Floor New York, NY 10021",
+                    "confidence": 0.76,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "REVIEW_NEEDED"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Philip E. Stieg",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Philip E. Stieg",
+                    "final_value": "Philip E Stieg",
+                    "confidence": 0.77,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.90)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "212-746-4684",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "Sources: 1 (Avg Trust: 0.90)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "pes2008@med.cornell.edu",
+                    "confidence": 0.77,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.90)"
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "525 East 68th Street Starr Pavilion, 651 New York, NY 10021",
+                    "confidence": 0.77,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.90)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Sadiq Ahmed, MD, FACP, FASN",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Sadiq Ahmed, MD, FACP, FASN",
+                    "final_value": "Sadiq Ahmed",
+                    "confidence": 0.625,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "859-257-1000",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "800 Rose St, Lexington, KY 40536",
+                    "confidence": 0.625,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Michael I. Anstead",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Michael I. Anstead",
+                    "final_value": "Michael I. Anstead",
+                    "confidence": 0.65,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 2 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "859-257-1000",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Dr. Devi Prasad Shetty",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Devi Prasad Shetty",
+                    "final_value": "Rajendra R Shetty MD",
+                    "confidence": 0.65,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "(201) 555-0123",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "benefactors@wikimedia.org",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "8116 Good Luck RdSuite 305Lanham, MD 20706",
+                    "confidence": 0.65,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.70)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    },
+    {
+        "input_info": {
+            "name": "Dr. Hitesh Garg",
+            "phone": "",
+            "email": "",
+            "address": ""
+        },
+        "validation_result": {
+            "provider_id": "N/A",
+            "overall_confidence": 0.9,
+            "fields": [
+                {
+                    "field": "name",
+                    "original": "Dr. Hitesh Garg",
+                    "final_value": "Dr. Hitesh Garg",
+                    "confidence": 0.68,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 2 (Avg Trust: 0.60)"
+                },
+                {
+                    "field": "phone",
+                    "original": "",
+                    "final_value": "1255632402",
+                    "confidence": 0.9,
+                    "action": "ENRICHED",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "email",
+                    "original": "",
+                    "final_value": "N/A",
+                    "confidence": 0.0,
+                    "action": "manual_review",
+                    "reason": "No data found."
+                },
+                {
+                    "field": "address",
+                    "original": "",
+                    "final_value": "Artemis Hospital, Gurgaon Sector 51",
+                    "confidence": 0.76,
+                    "action": "Enrichment Needed",
+                    "reason": "Sources: 1 (Avg Trust: 0.50)"
+                }
+            ],
+            "final_action": "ENRICHED_QA_READY"
+        }
+    }
+]
